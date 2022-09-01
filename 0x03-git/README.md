@@ -1,2 +1,2 @@
 $ git add
-"Hot fix"
+$ git commit "Hot fix"
