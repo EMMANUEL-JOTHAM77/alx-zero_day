@@ -1,1 +1,2 @@
 $ git add
+"Hot fix"
